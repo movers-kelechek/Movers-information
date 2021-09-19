@@ -13,8 +13,8 @@
 <!-- <h3>В instagram вы можете посмотреть новости нашей команды</h3> -->
 
 <h3>Мы изучаем</h3>
-<img src='img/html.png' width=60px>
-<img src='img/css-3.png' width=60px>
+<img src='img/html.png'>
+<img src='img/css-3.png'>
 <img src='img/but.png' width=60px>
 <img src='img/js.png' width=60px>
 
