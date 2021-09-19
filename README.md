@@ -10,8 +10,11 @@
 <a href="https://www.instagram.com/movers.kk/"><img src="img/instagram.png" alt="" width="50px"></a>
 
 <h3>Мы изучаем</h3>
-<img src='img/html.png' width=60px hello> 
+<img src='img/html.png' width=60px> 
 <img src='img/css-3.png' width=60px>
 <img src='img/but.png' width=60px>
 <img src='img/js.png' width=60px>
 
+| LEFT | CENTER | RIGHT |
+|-------|:--------:|:------|
+| fjkssjfa | jfkass | jak;fja |
