@@ -3,4 +3,4 @@
 
 <img src='img/logo.jpg' width=400px>
 
-<a href='https://www.youtube.com/channel/UCXwKhLg1Mi2-DbyORowljqw'> <img src='img/youtube.png'> </a>
+<a href='https://www.youtube.com/channel/UCXwKhLg1Mi2-DbyORowljqw'> <img src='img/youtube.png' width=200px> </a>
